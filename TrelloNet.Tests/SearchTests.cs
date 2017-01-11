@@ -51,7 +51,7 @@ namespace TrelloNet.Tests
                 Desc = "A test description",
                 IdOrganization = Constants.TestOrganizationId,
                 Pinned = true,
-                Url = "https://trello.com/b/J9JUdoYV/welcome-board",
+                Url = "https://trello.com/b/XxQn08CF/welcome-board",
                 Id = Constants.WelcomeBoardId,
                 Prefs = new BoardPreferences
                 {

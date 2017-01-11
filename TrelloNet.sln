@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloNet", "TrelloNet\TrelloNet.csproj", "{1C634CD3-1666-4133-B1D7-1BFA4A840A56}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrelloNet.Tests", "TrelloNet.Tests\TrelloNet.Tests.csproj", "{32F9162E-059D-4917-85B6-EC16D05373F9}"
@@ -17,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B6425B
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{506E3E07-4C22-43C6-836A-E8DCBD248A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{DDEF77CD-7CA9-4338-BFFA-1A17436D9E24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +37,14 @@ Global
 		{32F9162E-059D-4917-85B6-EC16D05373F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32F9162E-059D-4917-85B6-EC16D05373F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32F9162E-059D-4917-85B6-EC16D05373F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506E3E07-4C22-43C6-836A-E8DCBD248A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506E3E07-4C22-43C6-836A-E8DCBD248A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506E3E07-4C22-43C6-836A-E8DCBD248A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506E3E07-4C22-43C6-836A-E8DCBD248A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEF77CD-7CA9-4338-BFFA-1A17436D9E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEF77CD-7CA9-4338-BFFA-1A17436D9E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEF77CD-7CA9-4338-BFFA-1A17436D9E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEF77CD-7CA9-4338-BFFA-1A17436D9E24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
